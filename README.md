@@ -1,4 +1,4 @@
-# E-COMMERCE-DASHBOARD-POWERBI-
+# E-COMMERCE-DASHBOARD-POWER BI-
 
 Designed and developed an interactive Power BI dashboard to analyze e-commerce sales performance across categories, regions, time periods, and customer payment preferences with dynamic filtering.
 
